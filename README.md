@@ -5,9 +5,8 @@
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
 <pre>
   Full Stack Dev.
-  I'm enthusiastic about building software that will improve user's quality of life. 
+  If I'm not coding I'm probably sharing memes and bothering Luna 🐶
   Connect with me on LinkedIn or Twiiter!
-  If I'm not coding I'm probably bothering Luna 🐶
   💻 Languages: Typescript • Javascript • HTML5 
   ✨ Style: CSS • SCSS • MUI 
   🖼️ Framework: React • Vue • Nodejs • Express
