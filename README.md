@@ -6,12 +6,13 @@
 <pre>
   Full Stack Dev.
   If I'm not coding I'm probably sharing memes and bothering Luna 🐶
-  Connect with me on LinkedIn or Twiiter!
+  Connect with me on LinkedIn or Twitter!
   💻 Languages: Typescript • Javascript • HTML5 
-  ✨ Style: CSS • SCSS • MUI 
+  ✨ Style: CSS • SCSS • MUI • Tailwind
   🖼️ Framework: React • Vue • Nodejs • Express
   💾 DB: SQL • NoSQL
   ⭐️ Hosting: Vercel • AWS Beanstalk
+  🤖 AI/ML: OpenAI
 </pre>
 
 ![](https://komarev.com/ghpvc/?username=joyceoh&style=for-the-badge)
