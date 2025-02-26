@@ -7,9 +7,9 @@
   Full Stack Dev.
   If I'm not coding I'm probably sharing memes and bothering Luna 🐶
   Connect with me on LinkedIn or Twitter!
-  💻 Languages: Typescript • Javascript • HTML5 • Java
+  💻 Languages: Typescript • Javascript • HTML5 • Java • Python
   ✨ Style: CSS • SCSS • MUI • Tailwind
-  🖼️ Framework: React • Vue • Nodejs • Express
+  🖼️ Framework: React • Vue • Nodejs • Express • Spring Boot
   💾 DB: SQL • NoSQL
   ⭐️ Hosting: Vercel • AWS Beanstalk
   🤖 AI/ML: OpenAI
