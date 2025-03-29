@@ -5,14 +5,13 @@
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
 <pre>
   Full Stack Dev.
-  If I'm not coding I'm probably sharing memes and bothering Luna 🐶
-  Connect with me on LinkedIn or Twitter!
+  If I'm not coding I'm probably sending memes and bothering Luna 🐶
+  Short-term goal: Stop being a wimp and redo my entire neovim config. Own it.
   💻 Languages: Typescript • Javascript • HTML5 • Java • Python
   ✨ Style: CSS • SCSS • MUI • Tailwind
   🖼️ Framework: React • Vue • Nodejs • Express • Spring Boot
-  💾 DB: SQL • NoSQL
+  💾 DB: SQL • NoSQL • AWS S3
   ⭐️ Hosting: Vercel • AWS Beanstalk
-  🤖 AI/ML: OpenAI
 </pre>
 
 ![](https://komarev.com/ghpvc/?username=joyceoh&style=for-the-badge)
