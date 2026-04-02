@@ -7,8 +7,7 @@
   Full Stack Dev.
   If I'm not coding I'm probably sending memes and bothering Luna 🐶
   Fully embracing the sterotypical SWE lifestyle. Pickleball, bouldering and side projects.
-  💻 Languages: Typescript • Javascript • HTML5 • Java • Python
-  ✨ Style: CSS • SCSS • MUI • Tailwind
+  💻 Languages: Typescript • Javascript • HTML5/CSS • Java • Python • Lua
   🖼️ Framework: React • Vue • Nodejs • Express • Spring Boot
   💾 DB: SQL • NoSQL • AWS S3
   ⭐️ Hosting: Vercel • AWS Beanstalk
